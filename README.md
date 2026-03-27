@@ -37,9 +37,7 @@ Extracting actionable insights from data
 Importance of data storytelling
 📷 Dashboard Preview
 
-(Add your dashboard image here)
-
-![Dashboard Screenshot](your-image-link-here)
+![ Bank Marketing Dashboard ](Bank Marketing dashboard.jpeg)
 🔗 Acknowledgment
 
 Thanks to Future Interns Internship Program for providing this opportunity to enhance my data analytics skills.
