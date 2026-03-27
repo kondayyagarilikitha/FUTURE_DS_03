@@ -63,7 +63,7 @@ Importance of data storytelling
 
 📷 Dashboard Preview
 
-![Bank Marketing Dashboard](Bank_Marketing_dashboard.jpeg)
+[Bank Marketing Dashboard](Bank_Marketing_dashboard.jpeg)
 
 🔗 Acknowledgment
 
